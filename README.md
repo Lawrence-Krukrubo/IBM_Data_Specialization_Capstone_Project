@@ -1,4 +1,4 @@
-# IBM Data Science Professional Specialization Capstone Project
+# IBM Data Science Specialization Capstone Project
 
 This Repo contains the Applied Data Science Capstone-Project for the IBM Data Science Professional Certification Specialization program designed and taught by IBM via Coursera. This Capsone-Project is the final course in a series of nine(9) Data Science Specialization courses which include the following courses:-
 
@@ -12,7 +12,8 @@ This Repo contains the Applied Data Science Capstone-Project for the IBM Data Sc
 8. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/home/welcome)
 9. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone/home/welcome)
 
-#### It is mandatory that all courses from 1 to 8 are passed with acceptable grades before attempting The Capsone-Project.**
+#### It is mandatory that all courses from 1 to 8 are passed with acceptable grades before attempting The Capsone-Project.
+<br>
 
 <p align="center">
   <img src="https://github.com/Lawrence-Krukrubo/IBM_Data_Specialization_Capstone_Project/blob/master/IBM-badge_data-science-professional-certificate.png?raw=true" height=400 width=500 alt="IBM_Data_Specialization_badge">
