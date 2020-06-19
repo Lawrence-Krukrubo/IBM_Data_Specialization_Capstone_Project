@@ -36,7 +36,7 @@ Finally, I will use the Folium library to great maps of geospatial data and to c
 
 In this module, you will learn about the scope of this capstone project and the context of the project that you will be working on. You will learn about different location data providers and what location data is normally composed of. Finally, you will be required to submit a link to a new repository on your Github account dedicated to this course.
 
-2. <h4>Foursquare API</h4>:
+2. <h4>Foursquare API:</h4>
 
 In this module, you will learn in details about Foursquare, which is the location data provider we will be using in this course, and its API. Essentially, you will learn how to create a Foursquare developer account, and use your credentials to search for nearby venues of a specific type, explore a particular venue, and search for trending venues around a location.
 
@@ -133,6 +133,6 @@ Here's a link to my IBM Data Science Professional Specialization [**certificate*
 
 ### License:
 
-All codes, documents, anlysis and files for this project abide under the **MIT** license in the root-directory of the project.
+All codes, documents, analysis and files for this project abide under the **MIT** license in the root-directory of the project.
 
 
